@@ -2,3 +2,4 @@ h1 is the most improtant of h1-h6
 push code to git bash 4 steps
   -type "git status"
   -"get add" is to add untracked files
+  - "git commit"to add files
