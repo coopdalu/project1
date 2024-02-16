@@ -3,3 +3,4 @@ push code to git bash 4 steps
   -type "git status"
   -"get add" is to add untracked files
   - "git commit"to add files
+  git commit -m
